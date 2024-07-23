@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Board
+comment1.params=
+comment1.target=Board()
+comment10.params=
+comment10.target=void\ swapPlusTime()
+comment11.params=color
+comment11.target=boolean\ isSunOnBoard(java.lang.String)
+comment2.params=
+comment2.target=Piece[][]\ getBoardPiece()
+comment3.params=
+comment3.target=boolean\ getFlipped()
+comment4.params=boardPiece
+comment4.target=void\ setBoardPiece(Piece[][])
+comment5.params=flipped
+comment5.target=void\ setFlipped(boolean)
+comment6.params=
+comment6.target=void\ initializeBoard()
+comment7.params=startRow\ startCol\ targetRow\ targetCol
+comment7.target=void\ movePiece(int,\ int,\ int,\ int)
+comment8.params=
+comment8.target=void\ clearBoard()
+comment9.params=
+comment9.target=void\ flipBoard()
+numComments=12

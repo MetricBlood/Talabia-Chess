@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=GameData
+comment1.params=boardPiece\ flipped\ turn\ moveCounter
+comment1.target=GameData(Piece[][],\ boolean,\ int,\ int)
+comment2.params=
+comment2.target=Piece[][]\ getBoardPiece()
+comment3.params=
+comment3.target=boolean\ getFlipped()
+comment4.params=
+comment4.target=int\ getTurn()
+comment5.params=
+comment5.target=int\ getMoveCounter()
+numComments=6

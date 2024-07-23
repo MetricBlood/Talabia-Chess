@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Plus
+comment1.params=color
+comment1.target=Plus(java.lang.String)
+comment2.params=currentRow\ currentCol\ targetRow\ targetCol\ board
+comment2.target=boolean\ isValidMove(int,\ int,\ int,\ int,\ Board)
+comment3.params=
+comment3.target=java.lang.String\ getIconName()
+numComments=4

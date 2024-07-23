@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Piece
+comment1.params=color
+comment1.target=Piece(java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ pieceColor()
+comment3.params=currentRow\ currentCol\ targetRow\ targetCol\ board
+comment3.target=boolean\ isValidMove(int,\ int,\ int,\ int,\ Board)
+comment4.params=
+comment4.target=java.lang.String\ getIconName()
+numComments=5

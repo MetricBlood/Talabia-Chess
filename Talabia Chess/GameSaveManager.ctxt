@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=GameSaveManager
+comment1.params=filename\ boardPiece\ flipped\ turn\ moveCounter
+comment1.target=boolean\ save(java.lang.String,\ Piece[][],\ boolean,\ int,\ int)
+comment2.params=filename
+comment2.target=GameData\ load(java.lang.String)
+numComments=3
